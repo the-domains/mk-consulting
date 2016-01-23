@@ -1,0 +1,28 @@
+name: MK-Consulting
+favicon: null
+layout_spectrum: 0.09432730777189136
+typography_spectrum: 0.6870976388454437
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.18555772304534912
+  lightness: 0.689621037337929
+  saturation: 0.4957500894088298
+  rhythmicContrast: 0.900436251424253
+purpose: []
