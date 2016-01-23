@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MK-Consulting]]></title>
         <description><![CDATA[MK-Consulting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mk-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 10:32:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 10:37:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mk-consulting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GER 85]]></title>
+            <description><![CDATA[<article><h1>GER 85</h1><p>Und noch ein Post, mal sehen ob jetzt was passier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5539d945a4437990cf52b0dddd4211ba0e22e554.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mk-consulting/ger-85/index.html</link>
+            <guid isPermaLink="false">f32191e1-7656-430c-96f6-7d9e38a9adce</guid>
+            <pubDate>Sat, 23 Jan 2016 10:37:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cf288fc-8a02-49a5-a6aa-eeadf75a0e5e.jpg">]]></description>
-            <link>undefinedd9f133df-b955-49a2-9123-1f6d4eaea881/index.html</link>
+            <link>https://thegrid.ai/mk-consulting/d9f133df-b955-49a2-9123-1f6d4eaea881/index.html</link>
             <guid isPermaLink="false">d9f133df-b955-49a2-9123-1f6d4eaea881</guid>
             <pubDate>Sat, 23 Jan 2016 10:32:34 GMT</pubDate>
         </item>
