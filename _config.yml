@@ -1,6 +1,6 @@
 name: MK-Consulting
 favicon: null
-layout_spectrum: 0.09432730777189136
+layout_spectrum: 1
 typography_spectrum: 0.6870976388454437
 title: GER85 Sailingteam
 cta:
@@ -22,7 +22,7 @@ color:
     - '#676e78'
     - '#98a0b4'
     - '#e3dbd9'
-  brandStrength: 0.18555772304534912
+  brandStrength: 0.125
   lightness: 0.689621037337929
   saturation: 0.4957500894088298
   rhythmicContrast: 0.900436251424253
